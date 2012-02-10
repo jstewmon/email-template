@@ -1,6 +1,6 @@
 {
   "name": "email-template",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "a library for creating text/html email bodies",
   "main": "index.js",
   "repository": {
