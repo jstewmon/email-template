@@ -3,15 +3,19 @@
   "version": "0.0.1",
   "description": "a library for creating text/html email bodies",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jstewmon/email-template.git"
+  },
   "dependencies": {
     "async": "git://github.com/jstewmon/async.git",
     "underscore": "1.3.x",
-    "handlebars": "1.x",
     "consolidate": "git://github.com/visionmedia/consolidate.js.git"
   },
   "devDependencies": {
     "mocha": "0.11.x",
-    "should": "0.5.x"
+    "should": "0.5.x",
+    "handlebars": "1.x"
   },
   "engines": {
     "node": ">= 0.6.x"
