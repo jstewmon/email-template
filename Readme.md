@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jstewmon/email-template.png)](http://travis-ci.org/jstewmon/email-template)
 email-template is a simple library used to render both a text and html template for a given data context.
 
 usage is easy:
