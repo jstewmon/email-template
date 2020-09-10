@@ -15,7 +15,7 @@
   "devDependencies": {
     "mocha": "0.11.x",
     "should": "0.5.x",
-    "handlebars": "1.x"
+    "handlebars": "4.x"
   },
   "engines": {
     "node": ">= 0.6.x"
